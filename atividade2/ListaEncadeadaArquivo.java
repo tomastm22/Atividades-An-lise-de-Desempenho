@@ -1,7 +1,3 @@
-import java.io.File;
-import java.io.FileNotFoundException;
-import java.util.Scanner;
-
 // Classe Nó para representer cada nó da lista
 class No {
   int dado; // Atributo para armazenar o valor do nó
