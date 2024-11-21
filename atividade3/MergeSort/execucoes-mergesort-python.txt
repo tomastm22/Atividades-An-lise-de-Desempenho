@@ -1,0 +1,139 @@
+Execução 01:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\MergeSort> python .\pmpythonmerge.py
+Linguagem Python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+Sistema: Windows 10 (AMD64)
+Processador: AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD
+Uso de CPU: 0.7%
+Memória Total: 18293.74 MB
+Memória Livre: 10665.24 MB
+Memória Usada: 7628.50 MB
+
+Tempo de Execução: 64.77 ms
+Memória RAM Utilizada: 23708.00 KB
+
+Execução 02:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\MergeSort> python .\pmpythonmerge.py
+Linguagem Python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+Sistema: Windows 10 (AMD64)
+Processador: AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD
+Uso de CPU: 0.3%
+Memória Total: 18293.74 MB
+Memória Livre: 10630.22 MB
+Memória Usada: 7663.52 MB
+
+Tempo de Execução: 63.71 ms
+Memória RAM Utilizada: 23764.00 KB
+
+Execução 03:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\MergeSort> python .\pmpythonmerge.py
+Linguagem Python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+Sistema: Windows 10 (AMD64)
+Processador: AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD
+Uso de CPU: 0.1%
+Memória Total: 18293.74 MB
+Memória Livre: 10627.18 MB
+Memória Usada: 7666.57 MB
+
+Tempo de Execução: 63.02 ms
+Memória RAM Utilizada: 23720.00 KB
+
+Execução 04:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\MergeSort> python .\pmpythonmerge.py
+Linguagem Python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+Sistema: Windows 10 (AMD64)
+Processador: AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD
+Uso de CPU: 0.3%
+Memória Total: 18293.74 MB
+Memória Livre: 10631.90 MB
+Memória Usada: 7661.84 MB
+
+Tempo de Execução: 64.46 ms
+Memória RAM Utilizada: 23784.00 KB
+
+Execução 05:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\MergeSort> python .\pmpythonmerge.py
+Linguagem Python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+Sistema: Windows 10 (AMD64)
+Processador: AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD
+Uso de CPU: 1.0%
+Memória Total: 18293.74 MB
+Memória Livre: 10639.36 MB
+Memória Usada: 7654.38 MB
+
+Tempo de Execução: 62.85 ms
+Memória RAM Utilizada: 23452.00 KB
+
+Execução 06:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\MergeSort> python .\pmpythonmerge.py
+Linguagem Python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+Sistema: Windows 10 (AMD64)
+Processador: AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD
+Uso de CPU: 0.4%
+Memória Total: 18293.74 MB
+Memória Livre: 10638.09 MB
+Memória Usada: 7655.65 MB
+
+Tempo de Execução: 62.96 ms
+Memória RAM Utilizada: 23720.00 KB
+
+Execução 07:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\MergeSort> python .\pmpythonmerge.py
+Linguagem Python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+Sistema: Windows 10 (AMD64)
+Processador: AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD
+Uso de CPU: 0.4%
+Memória Total: 18293.74 MB
+Memória Livre: 10690.63 MB
+Memória Usada: 7603.11 MB
+
+Tempo de Execução: 63.81 ms
+Memória RAM Utilizada: 23776.00 KB
+
+Execução 08:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\MergeSort> python .\pmpythonmerge.py
+Linguagem Python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+Sistema: Windows 10 (AMD64)
+Processador: AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD
+Uso de CPU: 0.3%
+Memória Total: 18293.74 MB
+Memória Livre: 10699.02 MB
+Memória Usada: 7594.72 MB
+
+Tempo de Execução: 63.72 ms
+Memória RAM Utilizada: 23696.00 KB
+
+Execução 09:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\MergeSort> python .\pmpythonmerge.py
+Linguagem Python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+Sistema: Windows 10 (AMD64)
+Processador: AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD
+Uso de CPU: 0.8%
+Memória Total: 18293.74 MB
+Memória Livre: 10700.74 MB
+Memória Usada: 7593.00 MB
+
+Tempo de Execução: 64.00 ms
+Memória RAM Utilizada: 23824.00 KB
+
+Execução 10:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\MergeSort> python .\pmpythonmerge.py
+Linguagem Python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+Sistema: Windows 10 (AMD64)
+Processador: AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD
+Uso de CPU: 1.0%
+Memória Total: 18293.74 MB
+Memória Livre: 10709.55 MB
+Memória Usada: 7584.19 MB
+
+Tempo de Execução: 63.40 ms
+Memória RAM Utilizada: 23576.00 KB

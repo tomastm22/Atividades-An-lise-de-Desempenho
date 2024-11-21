@@ -1,0 +1,139 @@
+Execução 01:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\BubbleSort> python .\pbythonbubble.py
+Linguagem Python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+Sistema: Windows 10 (AMD64)
+Processador: AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD
+Uso de CPU: 0.0%
+Memória Total: 18293.74 MB
+Memória Livre: 10532.08 MB
+Memória Usada: 7761.66 MB
+
+Tempo de Execução: 35304.63 ms
+Memória RAM Utilizada: 23660.00 KB
+
+Execução 02:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\BubbleSort> python .\pbythonbubble.py
+Linguagem Python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+Sistema: Windows 10 (AMD64)
+Processador: AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD
+Uso de CPU: 0.4%
+Memória Total: 18293.74 MB
+Memória Livre: 10405.10 MB
+Memória Usada: 7888.64 MB
+
+Tempo de Execução: 35468.76 ms
+Memória RAM Utilizada: 23576.00 KB
+
+Execução 03:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\BubbleSort> python .\pbythonbubble.py
+Linguagem Python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+Sistema: Windows 10 (AMD64)
+Processador: AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD
+Uso de CPU: 0.1%
+Memória Total: 18293.74 MB
+Memória Livre: 10364.24 MB
+Memória Usada: 7929.50 MB
+
+Tempo de Execução: 35390.15 ms
+Memória RAM Utilizada: 23364.00 KB
+
+Execução 04:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\BubbleSort> python .\pbythonbubble.py
+Linguagem Python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+Sistema: Windows 10 (AMD64)
+Processador: AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD
+Uso de CPU: 0.7%
+Memória Total: 18293.74 MB
+Memória Livre: 10399.88 MB
+Memória Usada: 7893.86 MB
+
+Tempo de Execução: 35494.33 ms
+Memória RAM Utilizada: 23364.00 KB
+
+Execução 05:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\BubbleSort> python .\pbythonbubble.py
+Linguagem Python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+Sistema: Windows 10 (AMD64)
+Processador: AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD
+Uso de CPU: 0.0%
+Memória Total: 18293.74 MB
+Memória Livre: 10397.41 MB
+Memória Usada: 7896.33 MB
+
+Tempo de Execução: 35330.91 ms
+Memória RAM Utilizada: 23760.00 KB
+
+Execução 06:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\BubbleSort> python .\pbythonbubble.py
+Linguagem Python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+Sistema: Windows 10 (AMD64)
+Processador: AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD
+Uso de CPU: 0.3%
+Memória Total: 18293.74 MB
+Memória Livre: 10437.73 MB
+Memória Usada: 7856.01 MB
+
+Tempo de Execução: 35308.26 ms
+Memória RAM Utilizada: 23696.00 KB
+
+Execução 07:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\BubbleSort> python .\pbythonbubble.py
+Linguagem Python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+Sistema: Windows 10 (AMD64)
+Processador: AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD
+Uso de CPU: 0.5%
+Memória Total: 18293.74 MB
+Memória Livre: 10476.69 MB
+Memória Usada: 7817.05 MB
+
+Tempo de Execução: 35240.12 ms
+Memória RAM Utilizada: 23600.00 KB
+
+Execução 08:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\BubbleSort> python .\pbythonbubble.py
+Linguagem Python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+Sistema: Windows 10 (AMD64)
+Processador: AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD
+Uso de CPU: 0.1%
+Memória Total: 18293.74 MB
+Memória Livre: 10694.48 MB
+Memória Usada: 7599.26 MB
+
+Tempo de Execução: 35881.63 ms
+Memória RAM Utilizada: 23536.00 KB
+
+Execução 09:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\BubbleSort> python .\pbythonbubble.py
+Linguagem Python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+Sistema: Windows 10 (AMD64)
+Processador: AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD
+Uso de CPU: 0.7%
+Memória Total: 18293.74 MB
+Memória Livre: 10787.48 MB
+Memória Usada: 7506.26 MB
+
+Tempo de Execução: 35210.31 ms
+Memória RAM Utilizada: 23652.00 KB
+
+Execução 10:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\BubbleSort> python .\pbythonbubble.py
+Linguagem Python: 3.11.9 (tags/v3.11.9:de54cf5, Apr  2 2024, 10:12:12) [MSC v.1938 64 bit (AMD64)]
+Sistema: Windows 10 (AMD64)
+Processador: AMD64 Family 23 Model 104 Stepping 1, AuthenticAMD
+Uso de CPU: 0.3%
+Memória Total: 18293.74 MB
+Memória Livre: 10819.08 MB
+Memória Usada: 7474.66 MB
+
+Tempo de Execução: 35158.93 ms
+Memória RAM Utilizada: 23636.00 KB

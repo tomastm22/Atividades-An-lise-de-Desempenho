@@ -1,0 +1,129 @@
+Execução 01:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\BubbleSort> node .\jbjavascript.js
+Linguagem: Node.js v22.11.0
+Sistema: Windows_NT 10.0.22631 (x64)
+Processador: AMD Ryzen 5 5500U with Radeon Graphics
+Uso de CPU (não exato): ~0.00%
+Memória Total: 18293.74 MB
+Memória Livre: 10606.59 MB
+
+Tempo de Execução: 4029.21 ms
+Memória RAM Utilizada: 46388.00 KB
+
+Execução 02:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\BubbleSort> node .\jbjavascript.js
+Linguagem: Node.js v22.11.0
+Sistema: Windows_NT 10.0.22631 (x64)
+Processador: AMD Ryzen 5 5500U with Radeon Graphics
+Uso de CPU (não exato): ~0.00%
+Memória Total: 18293.74 MB
+Memória Livre: 10625.73 MB
+
+Tempo de Execução: 3979.00 ms
+Memória RAM Utilizada: 37620.00 KB
+
+Execução 03:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\BubbleSort> node .\jbjavascript.js
+Linguagem: Node.js v22.11.0
+Sistema: Windows_NT 10.0.22631 (x64)
+Processador: AMD Ryzen 5 5500U with Radeon Graphics
+Uso de CPU (não exato): ~0.00%
+Memória Total: 18293.74 MB
+Memória Livre: 10605.79 MB
+
+Tempo de Execução: 4022.94 ms
+Memória RAM Utilizada: 37184.00 KB
+
+Execução 04:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\BubbleSort> node .\jbjavascript.js
+Linguagem: Node.js v22.11.0
+Sistema: Windows_NT 10.0.22631 (x64)
+Processador: AMD Ryzen 5 5500U with Radeon Graphics
+Uso de CPU (não exato): ~0.00%
+Memória Total: 18293.74 MB
+Memória Livre: 10451.46 MB
+
+Tempo de Execução: 4006.78 ms
+Memória RAM Utilizada: 37148.00 KB
+
+Execução 05:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\BubbleSort> node .\jbjavascript.js
+Linguagem: Node.js v22.11.0
+Sistema: Windows_NT 10.0.22631 (x64)
+Processador: AMD Ryzen 5 5500U with Radeon Graphics
+Uso de CPU (não exato): ~0.00%
+Memória Total: 18293.74 MB
+Memória Livre: 10432.54 MB
+
+Tempo de Execução: 4143.15 ms
+Memória RAM Utilizada: 37452.00 KB
+
+Execução 06:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\BubbleSort> node .\jbjavascript.js
+Linguagem: Node.js v22.11.0
+Sistema: Windows_NT 10.0.22631 (x64)
+Processador: AMD Ryzen 5 5500U with Radeon Graphics
+Uso de CPU (não exato): ~0.00%
+Memória Total: 18293.74 MB
+Memória Livre: 10551.32 MB
+
+Tempo de Execução: 4015.73 ms
+Memória RAM Utilizada: 37136.00 KB
+
+Execução 07:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\BubbleSort> node .\jbjavascript.js
+Linguagem: Node.js v22.11.0
+Sistema: Windows_NT 10.0.22631 (x64)
+Processador: AMD Ryzen 5 5500U with Radeon Graphics
+Uso de CPU (não exato): ~0.00%
+Memória Total: 18293.74 MB
+Memória Livre: 10556.32 MB
+
+Tempo de Execução: 3995.58 ms
+Memória RAM Utilizada: 37184.00 KB
+
+Execução 08:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\BubbleSort> node .\jbjavascript.js
+Linguagem: Node.js v22.11.0
+Sistema: Windows_NT 10.0.22631 (x64)
+Processador: AMD Ryzen 5 5500U with Radeon Graphics
+Uso de CPU (não exato): ~0.00%
+Memória Total: 18293.74 MB
+Memória Livre: 10579.16 MB
+
+Tempo de Execução: 4057.48 ms
+Memória RAM Utilizada: 37580.00 KB
+
+Execução 09:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\BubbleSort> node .\jbjavascript.js
+Linguagem: Node.js v22.11.0
+Sistema: Windows_NT 10.0.22631 (x64)
+Processador: AMD Ryzen 5 5500U with Radeon Graphics
+Uso de CPU (não exato): ~0.00%
+Memória Total: 18293.74 MB
+Memória Livre: 10593.39 MB
+
+Tempo de Execução: 4013.39 ms
+Memória RAM Utilizada: 37116.00 KB
+
+Execução 10:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\BubbleSort> node .\jbjavascript.js
+Linguagem: Node.js v22.11.0
+Sistema: Windows_NT 10.0.22631 (x64)
+Processador: AMD Ryzen 5 5500U with Radeon Graphics
+Uso de CPU (não exato): ~0.00%
+Memória Total: 18293.74 MB
+Memória Livre: 10600.87 MB
+
+Tempo de Execução: 4024.98 ms
+Memória RAM Utilizada: 37228.00 KB

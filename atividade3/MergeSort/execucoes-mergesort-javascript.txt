@@ -1,0 +1,129 @@
+Execução 01:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\MergeSort> node .\jmjavascriptmerge.js
+Linguagem: Node.js v22.11.0
+Sistema: Windows_NT 10.0.22631 (x64)
+Processador: AMD Ryzen 5 5500U with Radeon Graphics
+Uso de CPU (não exato): ~0.00%
+Memória Total: 18293.74 MB
+Memória Livre: 10683.70 MB
+
+Tempo de Execução: 15.32 ms
+Memória RAM Utilizada: 39028.00 KB
+
+Execução 02:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\MergeSort> node .\jmjavascriptmerge.js
+Linguagem: Node.js v22.11.0
+Sistema: Windows_NT 10.0.22631 (x64)
+Processador: AMD Ryzen 5 5500U with Radeon Graphics
+Uso de CPU (não exato): ~0.00%
+Memória Total: 18293.74 MB
+Memória Livre: 10677.13 MB
+
+Tempo de Execução: 13.87 ms
+Memória RAM Utilizada: 39256.00 KB
+
+Execução 03:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\MergeSort> node .\jmjavascriptmerge.js
+Linguagem: Node.js v22.11.0
+Sistema: Windows_NT 10.0.22631 (x64)
+Processador: AMD Ryzen 5 5500U with Radeon Graphics
+Uso de CPU (não exato): ~0.00%
+Memória Total: 18293.74 MB
+Memória Livre: 10676.96 MB
+
+Tempo de Execução: 14.40 ms
+Memória RAM Utilizada: 39040.00 KB
+
+Execução 04:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\MergeSort> node .\jmjavascriptmerge.js
+Linguagem: Node.js v22.11.0
+Sistema: Windows_NT 10.0.22631 (x64)
+Processador: AMD Ryzen 5 5500U with Radeon Graphics
+Uso de CPU (não exato): ~0.00%
+Memória Total: 18293.74 MB
+Memória Livre: 10626.44 MB
+
+Tempo de Execução: 14.55 ms
+Memória RAM Utilizada: 39056.00 KB
+
+Execução 05:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\MergeSort> node .\jmjavascriptmerge.js
+Linguagem: Node.js v22.11.0
+Sistema: Windows_NT 10.0.22631 (x64)
+Processador: AMD Ryzen 5 5500U with Radeon Graphics
+Uso de CPU (não exato): ~0.00%
+Memória Total: 18293.74 MB
+Memória Livre: 10621.50 MB
+
+Tempo de Execução: 15.32 ms
+Memória RAM Utilizada: 38944.00 KB
+
+Execução 06:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\MergeSort> node .\jmjavascriptmerge.js
+Linguagem: Node.js v22.11.0
+Sistema: Windows_NT 10.0.22631 (x64)
+Processador: AMD Ryzen 5 5500U with Radeon Graphics
+Uso de CPU (não exato): ~0.00%
+Memória Total: 18293.74 MB
+Memória Livre: 10621.95 MB
+
+Tempo de Execução: 14.50 ms
+Memória RAM Utilizada: 38860.00 KB
+
+Execução 07:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\MergeSort> node .\jmjavascriptmerge.js
+Linguagem: Node.js v22.11.0
+Sistema: Windows_NT 10.0.22631 (x64)
+Processador: AMD Ryzen 5 5500U with Radeon Graphics
+Uso de CPU (não exato): ~0.00%
+Memória Total: 18293.74 MB
+Memória Livre: 10614.15 MB
+
+Tempo de Execução: 17.63 ms
+Memória RAM Utilizada: 39112.00 KB
+
+Execução 08:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\MergeSort> node .\jmjavascriptmerge.js
+Linguagem: Node.js v22.11.0
+Sistema: Windows_NT 10.0.22631 (x64)
+Processador: AMD Ryzen 5 5500U with Radeon Graphics
+Uso de CPU (não exato): ~0.00%
+Memória Total: 18293.74 MB
+Memória Livre: 10636.80 MB
+
+Tempo de Execução: 14.70 ms
+Memória RAM Utilizada: 39032.00 KB
+
+Execução 09:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\MergeSort> node .\jmjavascriptmerge.js
+Linguagem: Node.js v22.11.0
+Sistema: Windows_NT 10.0.22631 (x64)
+Processador: AMD Ryzen 5 5500U with Radeon Graphics
+Uso de CPU (não exato): ~0.00%
+Memória Total: 18293.74 MB
+Memória Livre: 10630.55 MB
+
+Tempo de Execução: 13.70 ms
+Memória RAM Utilizada: 39016.00 KB
+
+Execução 10:
+
+PS C:\Users\tmamo\Documents\GitHub\Atividades-An-lise-de-Desempenho\atividade3\MergeSort> node .\jmjavascriptmerge.js
+Linguagem: Node.js v22.11.0
+Sistema: Windows_NT 10.0.22631 (x64)
+Processador: AMD Ryzen 5 5500U with Radeon Graphics
+Uso de CPU (não exato): ~0.00%
+Memória Total: 18293.74 MB
+Memória Livre: 10660.61 MB
+
+Tempo de Execução: 13.46 ms
+Memória RAM Utilizada: 39104.00 KB
