@@ -1,6 +1,21 @@
+# Bibliotecas Importadas
+
+# Acessa informações do interpretador Python, nesse caso, obtem a versão do Python. (sys.version)
 import sys
-import platform
+
+# Fornece informações detalhadas sobre o sistema operacional e o hardware.
+# Nesse caso é usada para mostrar dados como o sistema operacional, a arquitetura do sistema e o processador (platform.uname()). 
+import platform 
+
+# Monitoramento do sistema e manipulação de processos.
+# Nesse caso ela é usada para:
+# Medir o uso de CPU com psutil.cpu_percent(interval=1).
+# Obter informações sobre a memória virtual com psutil.virtual_memory().
+# Medir a quantidade de memória RAM utilizada pelo processo atual com psutil.Process().memory_info().
 import psutil
+
+# Fornece funções relacionadas à medição de tempo.
+# Usada para mostrar o tempo de execução do código.
 import time
 
 
@@ -36,9 +51,9 @@ def write_numbers_to_file(filename, numbers):
 def get_system_info():
     # Informações do sistema
     python_version = sys.version
-    system_info = platform.uname()
+    system_info = platform.uname() 
     cpu_info = psutil.cpu_percent(interval=1)  # Uso de CPU
-    memory_info = psutil.virtual_memory()
+    memory_info = psutil.virtual_memory() # Uso de Memoria
     
     # Exibindo as informações
     print(f"Linguagem Python: {python_version}")

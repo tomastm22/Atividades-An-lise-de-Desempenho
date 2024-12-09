@@ -1,4 +1,9 @@
+// O módulo "fs" é usado para manipular o sistema de arquivos,
+// fornecendo métodos para ler, escrever e criar arquivos.
 const fs = require("fs");
+
+// O módulo "os" fornece informações sobre o sistema operacional onde o Node.js está sendo executado,
+// permitindo acessar informações sobre a cpu, memória disponivel, SO.
 const os = require("os");
 
 // Função para ordenar a lista (Bubble Sort)
