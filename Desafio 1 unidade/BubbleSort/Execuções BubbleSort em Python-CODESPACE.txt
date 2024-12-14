@@ -1,0 +1,141 @@
+Execuções BubbleSort em Python no CodeSpace
+
+Execução 01:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort (main) $ python pbythonbubble.py 
+Linguagem Python: 3.12.1 (main, Sep 30 2024, 17:05:21) [GCC 9.4.0]
+Sistema: Linux 6.5.0-1025-azure (x86_64)
+Processador: x86_64
+Uso de CPU: 0.5%
+Memória Total: 7929.55 MB
+Memória Livre: 5848.66 MB
+Memória Usada: 1702.44 MB
+
+Tempo de Execução: 11090.03 ms
+Memória RAM Utilizada: 15488.00 KB
+
+Execução 02:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort (main) $ python pbythonbubble.py 
+Linguagem Python: 3.12.1 (main, Sep 30 2024, 17:05:21) [GCC 9.4.0]
+Sistema: Linux 6.5.0-1025-azure (x86_64)
+Processador: x86_64
+Uso de CPU: 2.5%
+Memória Total: 7929.55 MB
+Memória Livre: 5848.27 MB
+Memória Usada: 1702.83 MB
+
+Tempo de Execução: 11178.80 ms
+Memória RAM Utilizada: 15488.00 KB
+
+Execução 03:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort (main) $ python pbythonbubble.py 
+Linguagem Python: 3.12.1 (main, Sep 30 2024, 17:05:21) [GCC 9.4.0]
+Sistema: Linux 6.5.0-1025-azure (x86_64)
+Processador: x86_64
+Uso de CPU: 7.1%
+Memória Total: 7929.55 MB
+Memória Livre: 5866.21 MB
+Memória Usada: 1684.82 MB
+
+Tempo de Execução: 11394.93 ms
+Memória RAM Utilizada: 15616.00 KB
+
+Execução 04:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort (main) $ python pbythonbubble.py 
+Linguagem Python: 3.12.1 (main, Sep 30 2024, 17:05:21) [GCC 9.4.0]
+Sistema: Linux 6.5.0-1025-azure (x86_64)
+Processador: x86_64
+Uso de CPU: 1.5%
+Memória Total: 7929.55 MB
+Memória Livre: 5865.95 MB
+Memória Usada: 1685.15 MB
+
+Tempo de Execução: 11165.88 ms
+Memória RAM Utilizada: 15616.00 KB
+
+Execução 05:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort (main) $ python pbythonbubble.py 
+Linguagem Python: 3.12.1 (main, Sep 30 2024, 17:05:21) [GCC 9.4.0]
+Sistema: Linux 6.5.0-1025-azure (x86_64)
+Processador: x86_64
+Uso de CPU: 3.5%
+Memória Total: 7929.55 MB
+Memória Livre: 5851.01 MB
+Memória Usada: 1700.09 MB
+
+Tempo de Execução: 11093.07 ms
+Memória RAM Utilizada: 15744.00 KB
+
+Execução 06:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort (main) $ python pbythonbubble.py 
+Linguagem Python: 3.12.1 (main, Sep 30 2024, 17:05:21) [GCC 9.4.0]
+Sistema: Linux 6.5.0-1025-azure (x86_64)
+Processador: x86_64
+Uso de CPU: 2.0%
+Memória Total: 7929.55 MB
+Memória Livre: 5861.10 MB
+Memória Usada: 1690.00 MB
+
+Tempo de Execução: 11235.10 ms
+Memória RAM Utilizada: 15488.00 KB
+
+Execução 07:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort (main) $ python pbythonbubble.py 
+Linguagem Python: 3.12.1 (main, Sep 30 2024, 17:05:21) [GCC 9.4.0]
+Sistema: Linux 6.5.0-1025-azure (x86_64)
+Processador: x86_64
+Uso de CPU: 1.0%
+Memória Total: 7929.55 MB
+Memória Livre: 5862.87 MB
+Memória Usada: 1688.22 MB
+
+Tempo de Execução: 11220.50 ms
+Memória RAM Utilizada: 15488.00 KB
+
+Execução 08:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort (main) $ python pbythonbubble.py 
+Linguagem Python: 3.12.1 (main, Sep 30 2024, 17:05:21) [GCC 9.4.0]
+Sistema: Linux 6.5.0-1025-azure (x86_64)
+Processador: x86_64
+Uso de CPU: 1.0%
+Memória Total: 7929.55 MB
+Memória Livre: 5880.23 MB
+Memória Usada: 1670.86 MB
+
+Tempo de Execução: 11142.65 ms
+Memória RAM Utilizada: 15488.00 KB
+
+Execução 09:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort (main) $ python pbythonbubble.py 
+Linguagem Python: 3.12.1 (main, Sep 30 2024, 17:05:21) [GCC 9.4.0]
+Sistema: Linux 6.5.0-1025-azure (x86_64)
+Processador: x86_64
+Uso de CPU: 3.0%
+Memória Total: 7929.55 MB
+Memória Livre: 5877.12 MB
+Memória Usada: 1673.97 MB
+
+Tempo de Execução: 11235.14 ms
+Memória RAM Utilizada: 15616.00 KB
+
+Execução 10:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort (main) $ python pbythonbubble.py 
+Linguagem Python: 3.12.1 (main, Sep 30 2024, 17:05:21) [GCC 9.4.0]
+Sistema: Linux 6.5.0-1025-azure (x86_64)
+Processador: x86_64
+Uso de CPU: 3.0%
+Memória Total: 7929.55 MB
+Memória Livre: 5836.01 MB
+Memória Usada: 1715.08 MB
+
+Tempo de Execução: 11098.32 ms
+Memória RAM Utilizada: 15488.00 KB

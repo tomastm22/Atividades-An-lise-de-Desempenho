@@ -1,0 +1,131 @@
+Execuções MergeSort em JavaScript
+
+Execução 01:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort (main) $ node jmjavascriptmerge.js 
+Linguagem: Node.js v20.17.0
+Sistema: Linux 6.5.0-1025-azure (x64)
+Processador: AMD EPYC 7763 64-Core Processor
+Uso de CPU (não exato): ~0.09%
+Memória Total: 7929.55 MB
+Memória Livre: 5903.12 MB
+
+Tempo de Execução: 9.63 ms
+Memória RAM Utilizada: 50028.00 KB
+
+Execução 02:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort (main) $ node jmjavascriptmerge.js 
+Linguagem: Node.js v20.17.0
+Sistema: Linux 6.5.0-1025-azure (x64)
+Processador: AMD EPYC 7763 64-Core Processor
+Uso de CPU (não exato): ~0.15%
+Memória Total: 7929.55 MB
+Memória Livre: 5899.51 MB
+
+Tempo de Execução: 10.27 ms
+Memória RAM Utilizada: 52180.00 KB
+
+Execução 03:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort (main) $ node jmjavascriptmerge.js 
+Linguagem: Node.js v20.17.0
+Sistema: Linux 6.5.0-1025-azure (x64)
+Processador: AMD EPYC 7763 64-Core Processor
+Uso de CPU (não exato): ~0.15%
+Memória Total: 7929.55 MB
+Memória Livre: 5896.73 MB
+
+Tempo de Execução: 9.58 ms
+Memória RAM Utilizada: 50048.00 KB
+
+Execução 04:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort (main) $ node jmjavascriptmerge.js 
+Linguagem: Node.js v20.17.0
+Sistema: Linux 6.5.0-1025-azure (x64)
+Processador: AMD EPYC 7763 64-Core Processor
+Uso de CPU (não exato): ~0.14%
+Memória Total: 7929.55 MB
+Memória Livre: 5881.36 MB
+
+Tempo de Execução: 10.45 ms
+Memória RAM Utilizada: 50044.00 KB
+
+Execução 05:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort (main) $ node jmjavascriptmerge.js 
+Linguagem: Node.js v20.17.0
+Sistema: Linux 6.5.0-1025-azure (x64)
+Processador: AMD EPYC 7763 64-Core Processor
+Uso de CPU (não exato): ~0.14%
+Memória Total: 7929.55 MB
+Memória Livre: 5880.76 MB
+
+Tempo de Execução: 10.02 ms
+Memória RAM Utilizada: 49888.00 KB
+
+Execução 06:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort (main) $ node jmjavascriptmerge.js 
+Linguagem: Node.js v20.17.0
+Sistema: Linux 6.5.0-1025-azure (x64)
+Processador: AMD EPYC 7763 64-Core Processor
+Uso de CPU (não exato): ~0.14%
+Memória Total: 7929.55 MB
+Memória Livre: 5876.23 MB
+
+Tempo de Execução: 9.61 ms
+Memória RAM Utilizada: 50048.00 KB
+
+Execução 07:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort (main) $ node jmjavascriptmerge.js 
+Linguagem: Node.js v20.17.0
+Sistema: Linux 6.5.0-1025-azure (x64)
+Processador: AMD EPYC 7763 64-Core Processor
+Uso de CPU (não exato): ~0.13%
+Memória Total: 7929.55 MB
+Memória Livre: 5899.03 MB
+
+Tempo de Execução: 10.46 ms
+Memória RAM Utilizada: 50048.00 KB
+
+Execução 08:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort (main) $ node jmjavascriptmerge.js 
+Linguagem: Node.js v20.17.0
+Sistema: Linux 6.5.0-1025-azure (x64)
+Processador: AMD EPYC 7763 64-Core Processor
+Uso de CPU (não exato): ~0.13%
+Memória Total: 7929.55 MB
+Memória Livre: 5893.91 MB
+
+Tempo de Execução: 10.34 ms
+Memória RAM Utilizada: 50032.00 KB
+
+Execução 09:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort (main) $ node jmjavascriptmerge.js 
+Linguagem: Node.js v20.17.0
+Sistema: Linux 6.5.0-1025-azure (x64)
+Processador: AMD EPYC 7763 64-Core Processor
+Uso de CPU (não exato): ~0.13%
+Memória Total: 7929.55 MB
+Memória Livre: 5883.75 MB
+
+Tempo de Execução: 9.53 ms
+Memória RAM Utilizada: 50048.00 KB
+
+Execução 10:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort (main) $ node jmjavascriptmerge.js 
+Linguagem: Node.js v20.17.0
+Sistema: Linux 6.5.0-1025-azure (x64)
+Processador: AMD EPYC 7763 64-Core Processor
+Uso de CPU (não exato): ~0.20%
+Memória Total: 7929.55 MB
+Memória Livre: 5875.80 MB
+
+Tempo de Execução: 10.28 ms
+Memória RAM Utilizada: 52092.00 KB

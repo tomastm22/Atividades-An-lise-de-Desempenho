@@ -1,0 +1,141 @@
+Execuções MergeSort em Python no CodeSpace
+
+Execução 01:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort (main) $ python pmpythonmerge.py 
+Linguagem Python: 3.12.1 (main, Sep 30 2024, 17:05:21) [GCC 9.4.0]
+Sistema: Linux 6.5.0-1025-azure (x86_64)
+Processador: x86_64
+Uso de CPU: 2.0%
+Memória Total: 7929.55 MB
+Memória Livre: 5866.55 MB
+Memória Usada: 1684.69 MB
+
+Tempo de Execução: 30.23 ms
+Memória RAM Utilizada: 15616.00 KB
+
+Execução 02:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort (main) $ python pmpythonmerge.py 
+Linguagem Python: 3.12.1 (main, Sep 30 2024, 17:05:21) [GCC 9.4.0]
+Sistema: Linux 6.5.0-1025-azure (x86_64)
+Processador: x86_64
+Uso de CPU: 6.1%
+Memória Total: 7929.55 MB
+Memória Livre: 5861.64 MB
+Memória Usada: 1689.60 MB
+
+Tempo de Execução: 30.50 ms
+Memória RAM Utilizada: 15744.00 KB
+
+Execução 03:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort (main) $ python pmpythonmerge.py 
+Linguagem Python: 3.12.1 (main, Sep 30 2024, 17:05:21) [GCC 9.4.0]
+Sistema: Linux 6.5.0-1025-azure (x86_64)
+Processador: x86_64
+Uso de CPU: 2.5%
+Memória Total: 7929.55 MB
+Memória Livre: 5864.57 MB
+Memória Usada: 1686.66 MB
+
+Tempo de Execução: 30.34 ms
+Memória RAM Utilizada: 15616.00 KB
+
+Execução 04:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort (main) $ python pmpythonmerge.py 
+Linguagem Python: 3.12.1 (main, Sep 30 2024, 17:05:21) [GCC 9.4.0]
+Sistema: Linux 6.5.0-1025-azure (x86_64)
+Processador: x86_64
+Uso de CPU: 4.0%
+Memória Total: 7929.55 MB
+Memória Livre: 5877.79 MB
+Memória Usada: 1673.44 MB
+
+Tempo de Execução: 31.87 ms
+Memória RAM Utilizada: 15616.00 KB
+
+Execução 05:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort (main) $ python pmpythonmerge.py 
+Linguagem Python: 3.12.1 (main, Sep 30 2024, 17:05:21) [GCC 9.4.0]
+Sistema: Linux 6.5.0-1025-azure (x86_64)
+Processador: x86_64
+Uso de CPU: 2.0%
+Memória Total: 7929.55 MB
+Memória Livre: 5876.10 MB
+Memória Usada: 1675.14 MB
+
+Tempo de Execução: 30.34 ms
+Memória RAM Utilizada: 15616.00 KB
+
+Execução 06:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort (main) $ python pmpythonmerge.py 
+Linguagem Python: 3.12.1 (main, Sep 30 2024, 17:05:21) [GCC 9.4.0]
+Sistema: Linux 6.5.0-1025-azure (x86_64)
+Processador: x86_64
+Uso de CPU: 3.0%
+Memória Total: 7929.55 MB
+Memória Livre: 5854.80 MB
+Memória Usada: 1696.43 MB
+
+Tempo de Execução: 30.18 ms
+Memória RAM Utilizada: 15744.00 KB
+
+Execução 07:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort (main) $ python pmpythonmerge.py 
+Linguagem Python: 3.12.1 (main, Sep 30 2024, 17:05:21) [GCC 9.4.0]
+Sistema: Linux 6.5.0-1025-azure (x86_64)
+Processador: x86_64
+Uso de CPU: 5.0%
+Memória Total: 7929.55 MB
+Memória Livre: 5857.71 MB
+Memória Usada: 1693.52 MB
+
+Tempo de Execução: 30.60 ms
+Memória RAM Utilizada: 15744.00 KB
+
+Execução 08:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort (main) $ python pmpythonmerge.py 
+Linguagem Python: 3.12.1 (main, Sep 30 2024, 17:05:21) [GCC 9.4.0]
+Sistema: Linux 6.5.0-1025-azure (x86_64)
+Processador: x86_64
+Uso de CPU: 5.5%
+Memória Total: 7929.55 MB
+Memória Livre: 5857.52 MB
+Memória Usada: 1693.71 MB
+
+Tempo de Execução: 30.97 ms
+Memória RAM Utilizada: 15744.00 KB
+
+Execução 09:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort (main) $ python pmpythonmerge.py 
+Linguagem Python: 3.12.1 (main, Sep 30 2024, 17:05:21) [GCC 9.4.0]
+Sistema: Linux 6.5.0-1025-azure (x86_64)
+Processador: x86_64
+Uso de CPU: 11.4%
+Memória Total: 7929.55 MB
+Memória Livre: 5884.41 MB
+Memória Usada: 1666.83 MB
+
+Tempo de Execução: 37.63 ms
+Memória RAM Utilizada: 15744.00 KB
+
+Execução 10:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort (main) $ python pmpythonmerge.py 
+Linguagem Python: 3.12.1 (main, Sep 30 2024, 17:05:21) [GCC 9.4.0]
+Sistema: Linux 6.5.0-1025-azure (x86_64)
+Processador: x86_64
+Uso de CPU: 2.0%
+Memória Total: 7929.55 MB
+Memória Livre: 5884.18 MB
+Memória Usada: 1667.05 MB
+
+Tempo de Execução: 30.43 ms
+Memória RAM Utilizada: 15616.00 KB

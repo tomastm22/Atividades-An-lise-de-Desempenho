@@ -1,0 +1,131 @@
+Execuções BubbleSort em JavaScript no CodeSpace
+
+Execução 01:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort (main) $ node jbjavascript.js 
+Linguagem: Node.js v20.17.0
+Sistema: Linux 6.5.0-1025-azure (x64)
+Processador: AMD EPYC 7763 64-Core Processor
+Uso de CPU (não exato): ~0.15%
+Memória Total: 7929.55 MB
+Memória Livre: 5863.18 MB
+
+Tempo de Execução: 300.41 ms
+Memória RAM Utilizada: 48024.00 KB
+
+Execução 02:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort (main) $ node jbjavascript.js 
+Linguagem: Node.js v20.17.0
+Sistema: Linux 6.5.0-1025-azure (x64)
+Processador: AMD EPYC 7763 64-Core Processor
+Uso de CPU (não exato): ~0.13%
+Memória Total: 7929.55 MB
+Memória Livre: 5879.34 MB
+
+Tempo de Execução: 296.46 ms
+Memória RAM Utilizada: 48020.00 KB
+
+Execução 03:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort (main) $ node jbjavascript.js 
+Linguagem: Node.js v20.17.0
+Sistema: Linux 6.5.0-1025-azure (x64)
+Processador: AMD EPYC 7763 64-Core Processor
+Uso de CPU (não exato): ~0.13%
+Memória Total: 7929.55 MB
+Memória Livre: 5862.09 MB
+
+Tempo de Execução: 298.54 ms
+Memória RAM Utilizada: 48000.00 KB
+
+Execução 04:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort (main) $ node jbjavascript.js 
+Linguagem: Node.js v20.17.0
+Sistema: Linux 6.5.0-1025-azure (x64)
+Processador: AMD EPYC 7763 64-Core Processor
+Uso de CPU (não exato): ~0.20%
+Memória Total: 7929.55 MB
+Memória Livre: 5884.99 MB
+
+Tempo de Execução: 315.19 ms
+Memória RAM Utilizada: 49848.00 KB
+
+Execução 05:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort (main) $ node jbjavascript.js 
+Linguagem: Node.js v20.17.0
+Sistema: Linux 6.5.0-1025-azure (x64)
+Processador: AMD EPYC 7763 64-Core Processor
+Uso de CPU (não exato): ~0.20%
+Memória Total: 7929.55 MB
+Memória Livre: 5869.02 MB
+
+Tempo de Execução: 334.93 ms
+Memória RAM Utilizada: 47772.00 KB
+
+Execução 06:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort (main) $ node jbjavascript.js 
+Linguagem: Node.js v20.17.0
+Sistema: Linux 6.5.0-1025-azure (x64)
+Processador: AMD EPYC 7763 64-Core Processor
+Uso de CPU (não exato): ~0.20%
+Memória Total: 7929.55 MB
+Memória Livre: 5868.18 MB
+
+Tempo de Execução: 365.70 ms
+Memória RAM Utilizada: 49904.00 KB
+
+Execução 07:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort (main) $ node jbjavascript.js 
+Linguagem: Node.js v20.17.0
+Sistema: Linux 6.5.0-1025-azure (x64)
+Processador: AMD EPYC 7763 64-Core Processor
+Uso de CPU (não exato): ~0.18%
+Memória Total: 7929.55 MB
+Memória Livre: 5868.68 MB
+
+Tempo de Execução: 312.05 ms
+Memória RAM Utilizada: 50052.00 KB
+
+Execução 08:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort (main) $ node jbjavascript.js 
+Linguagem: Node.js v20.17.0
+Sistema: Linux 6.5.0-1025-azure (x64)
+Processador: AMD EPYC 7763 64-Core Processor
+Uso de CPU (não exato): ~0.18%
+Memória Total: 7929.55 MB
+Memória Livre: 5869.36 MB
+
+Tempo de Execução: 364.58 ms
+Memória RAM Utilizada: 50060.00 KB
+
+Execução 09:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort (main) $ node jbjavascript.js 
+Linguagem: Node.js v20.17.0
+Sistema: Linux 6.5.0-1025-azure (x64)
+Processador: AMD EPYC 7763 64-Core Processor
+Uso de CPU (não exato): ~0.18%
+Memória Total: 7929.55 MB
+Memória Livre: 5886.47 MB
+
+Tempo de Execução: 319.72 ms
+Memória RAM Utilizada: 50028.00 KB
+
+Execução 10:
+
+@tomastm22 ➜ /workspaces/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort (main) $ node jbjavascript.js 
+Linguagem: Node.js v20.17.0
+Sistema: Linux 6.5.0-1025-azure (x64)
+Processador: AMD EPYC 7763 64-Core Processor
+Uso de CPU (não exato): ~0.17%
+Memória Total: 7929.55 MB
+Memória Livre: 5886.10 MB
+
+Tempo de Execução: 305.46 ms
+Memória RAM Utilizada: 47856.00 KB
