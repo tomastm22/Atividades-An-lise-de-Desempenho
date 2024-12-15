@@ -1,0 +1,141 @@
+Execuções do MergeSort em Python na Maquina Virtual
+
+Execução 01:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort$ python3 pmpythonmerge.py 
+Linguagem Python: 3.11.2 (main, Sep 14 2024, 03:00:30) [GCC 12.2.0]
+Sistema: Linux 6.1.0-28-cloud-amd64 (x86_64)
+Processador: 
+Uso de CPU: 0.0%
+Memória Total: 3924.72 MB
+Memória Livre: 3412.11 MB
+Memória Usada: 239.54 MB
+
+Tempo de Execução: 24.77 ms
+Memória RAM Utilizada: 13600.00 KB
+
+Execução 02:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort$ python3 pmpythonmerge.py 
+Linguagem Python: 3.11.2 (main, Sep 14 2024, 03:00:30) [GCC 12.2.0]
+Sistema: Linux 6.1.0-28-cloud-amd64 (x86_64)
+Processador: 
+Uso de CPU: 0.0%
+Memória Total: 3924.72 MB
+Memória Livre: 3404.76 MB
+Memória Usada: 246.91 MB
+
+Tempo de Execução: 24.88 ms
+Memória RAM Utilizada: 13612.00 KB
+
+Execução 03:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort$ python3 pmpythonmerge.py 
+Linguagem Python: 3.11.2 (main, Sep 14 2024, 03:00:30) [GCC 12.2.0]
+Sistema: Linux 6.1.0-28-cloud-amd64 (x86_64)
+Processador: 
+Uso de CPU: 0.0%
+Memória Total: 3924.72 MB
+Memória Livre: 3411.69 MB
+Memória Usada: 240.00 MB
+
+Tempo de Execução: 24.82 ms
+Memória RAM Utilizada: 13672.00 KB
+
+Execução 04:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort$ python3 pmpythonmerge.py 
+Linguagem Python: 3.11.2 (main, Sep 14 2024, 03:00:30) [GCC 12.2.0]
+Sistema: Linux 6.1.0-28-cloud-amd64 (x86_64)
+Processador: 
+Uso de CPU: 0.0%
+Memória Total: 3924.72 MB
+Memória Livre: 3414.20 MB
+Memória Usada: 237.48 MB
+
+Tempo de Execução: 24.77 ms
+Memória RAM Utilizada: 13664.00 KB
+
+Execução 05:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort$ python3 pmpythonmerge.py 
+Linguagem Python: 3.11.2 (main, Sep 14 2024, 03:00:30) [GCC 12.2.0]
+Sistema: Linux 6.1.0-28-cloud-amd64 (x86_64)
+Processador: 
+Uso de CPU: 0.0%
+Memória Total: 3924.72 MB
+Memória Livre: 3414.20 MB
+Memória Usada: 237.48 MB
+
+Tempo de Execução: 24.68 ms
+Memória RAM Utilizada: 13620.00 KB
+
+Execução 06:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort$ python3 pmpythonmerge.py 
+Linguagem Python: 3.11.2 (main, Sep 14 2024, 03:00:30) [GCC 12.2.0]
+Sistema: Linux 6.1.0-28-cloud-amd64 (x86_64)
+Processador: 
+Uso de CPU: 0.0%
+Memória Total: 3924.72 MB
+Memória Livre: 3414.20 MB
+Memória Usada: 237.48 MB
+
+Tempo de Execução: 25.47 ms
+Memória RAM Utilizada: 13628.00 KB
+
+Execução 07:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort$ python3 pmpythonmerge.py 
+Linguagem Python: 3.11.2 (main, Sep 14 2024, 03:00:30) [GCC 12.2.0]
+Sistema: Linux 6.1.0-28-cloud-amd64 (x86_64)
+Processador: 
+Uso de CPU: 0.0%
+Memória Total: 3924.72 MB
+Memória Livre: 3414.20 MB
+Memória Usada: 237.48 MB
+
+Tempo de Execução: 25.61 ms
+Memória RAM Utilizada: 13600.00 KB
+
+Execução 08:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort$ python3 pmpythonmerge.py 
+Linguagem Python: 3.11.2 (main, Sep 14 2024, 03:00:30) [GCC 12.2.0]
+Sistema: Linux 6.1.0-28-cloud-amd64 (x86_64)
+Processador: 
+Uso de CPU: 0.0%
+Memória Total: 3924.72 MB
+Memória Livre: 3413.95 MB
+Memória Usada: 237.73 MB
+
+Tempo de Execução: 25.58 ms
+Memória RAM Utilizada: 13668.00 KB
+
+Execução 09:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort$ python3 pmpythonmerge.py 
+Linguagem Python: 3.11.2 (main, Sep 14 2024, 03:00:30) [GCC 12.2.0]
+Sistema: Linux 6.1.0-28-cloud-amd64 (x86_64)
+Processador: 
+Uso de CPU: 0.0%
+Memória Total: 3924.72 MB
+Memória Livre: 3413.95 MB
+Memória Usada: 237.73 MB
+
+Tempo de Execução: 24.91 ms
+Memória RAM Utilizada: 13652.00 KB
+
+Execução 10:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort$ python3 pmpythonmerge.py 
+Linguagem Python: 3.11.2 (main, Sep 14 2024, 03:00:30) [GCC 12.2.0]
+Sistema: Linux 6.1.0-28-cloud-amd64 (x86_64)
+Processador: 
+Uso de CPU: 0.0%
+Memória Total: 3924.72 MB
+Memória Livre: 3406.33 MB
+Memória Usada: 245.36 MB
+
+Tempo de Execução: 25.73 ms
+Memória RAM Utilizada: 13688.00 KB

@@ -1,0 +1,131 @@
+Execuções MergeSort em JavaScript no Replit
+
+Execução 01:
+
+~/.../Desafio 1 unidade/MergeSort$ node jmjavascriptmerge.js 
+Linguagem: Node.js v20.16.0
+Sistema: Linux 6.2.16 (x64)
+Processador: AMD EPYC 7B13
+Uso de CPU (não exato): ~2.59%
+Memória Total: 64312.70 MB
+Memória Livre: 47647.71 MB
+
+Tempo de Execução: 9.57 ms
+Memória RAM Utilizada: 53376.00 KB
+
+Execução 02:
+
+~/.../Desafio 1 unidade/MergeSort$ node jmjavascriptmerge.js 
+Linguagem: Node.js v20.16.0
+Sistema: Linux 6.2.16 (x64)
+Processador: AMD EPYC 7B13
+Uso de CPU (não exato): ~2.54%
+Memória Total: 64312.70 MB
+Memória Livre: 47333.63 MB
+
+Tempo de Execução: 7.57 ms
+Memória RAM Utilizada: 53760.00 KB
+
+Execução 03:
+
+~/.../Desafio 1 unidade/MergeSort$ node jmjavascriptmerge.js 
+Linguagem: Node.js v20.16.0
+Sistema: Linux 6.2.16 (x64)
+Processador: AMD EPYC 7B13
+Uso de CPU (não exato): ~2.54%
+Memória Total: 64312.70 MB
+Memória Livre: 47388.50 MB
+
+Tempo de Execução: 7.33 ms
+Memória RAM Utilizada: 53328.00 KB
+
+Execução 04:
+
+~/.../Desafio 1 unidade/MergeSort$ node jmjavascriptmerge.js 
+Linguagem: Node.js v20.16.0
+Sistema: Linux 6.2.16 (x64)
+Processador: AMD EPYC 7B13
+Uso de CPU (não exato): ~2.34%
+Memória Total: 64312.70 MB
+Memória Livre: 47373.86 MB
+
+Tempo de Execução: 7.07 ms
+Memória RAM Utilizada: 53240.00 KB
+
+Execução 05:
+
+~/.../Desafio 1 unidade/MergeSort$ node jmjavascriptmerge.js 
+Linguagem: Node.js v20.16.0
+Sistema: Linux 6.2.16 (x64)
+Processador: AMD EPYC 7B13
+Uso de CPU (não exato): ~2.34%
+Memória Total: 64312.70 MB
+Memória Livre: 47373.26 MB
+
+Tempo de Execução: 7.05 ms
+Memória RAM Utilizada: 52864.00 KB
+
+Execução 06:
+
+~/.../Desafio 1 unidade/MergeSort$ node jmjavascriptmerge.js 
+Linguagem: Node.js v20.16.0
+Sistema: Linux 6.2.16 (x64)
+Processador: AMD EPYC 7B13
+Uso de CPU (não exato): ~2.34%
+Memória Total: 64312.70 MB
+Memória Livre: 47372.91 MB
+
+Tempo de Execução: 7.16 ms
+Memória RAM Utilizada: 52984.00 KB
+
+Execução 07:
+
+~/.../Desafio 1 unidade/MergeSort$ node jmjavascriptmerge.js 
+Linguagem: Node.js v20.16.0
+Sistema: Linux 6.2.16 (x64)
+Processador: AMD EPYC 7B13
+Uso de CPU (não exato): ~2.34%
+Memória Total: 64312.70 MB
+Memória Livre: 47365.56 MB
+
+Tempo de Execução: 7.50 ms
+Memória RAM Utilizada: 53996.00 KB
+
+Execução 08:
+
+~/.../Desafio 1 unidade/MergeSort$ node jmjavascriptmerge.js 
+Linguagem: Node.js v20.16.0
+Sistema: Linux 6.2.16 (x64)
+Processador: AMD EPYC 7B13
+Uso de CPU (não exato): ~2.15%
+Memória Total: 64312.70 MB
+Memória Livre: 47370.55 MB
+
+Tempo de Execução: 7.20 ms
+Memória RAM Utilizada: 53372.00 KB
+
+Execução 09:
+
+~/.../Desafio 1 unidade/MergeSort$ node jmjavascriptmerge.js 
+Linguagem: Node.js v20.16.0
+Sistema: Linux 6.2.16 (x64)
+Processador: AMD EPYC 7B13
+Uso de CPU (não exato): ~2.15%
+Memória Total: 64312.70 MB
+Memória Livre: 47381.62 MB
+
+Tempo de Execução: 7.54 ms
+Memória RAM Utilizada: 53504.00 KB
+
+Execução 10:
+
+~/.../Desafio 1 unidade/MergeSort$ node jmjavascriptmerge.js 
+Linguagem: Node.js v20.16.0
+Sistema: Linux 6.2.16 (x64)
+Processador: AMD EPYC 7B13
+Uso de CPU (não exato): ~2.15%
+Memória Total: 64312.70 MB
+Memória Livre: 47377.05 MB
+
+Tempo de Execução: 7.16 ms
+Memória RAM Utilizada: 53504.00 KB

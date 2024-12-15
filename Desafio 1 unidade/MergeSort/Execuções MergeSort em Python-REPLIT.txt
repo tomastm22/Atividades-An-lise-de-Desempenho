@@ -1,0 +1,141 @@
+Execuções MergeSort em Python no Replit
+
+Execução 01:
+
+~/.../Desafio 1 unidade/MergeSort$ python pmpythonmerge.py 
+Linguagem Python: 3.10.14 (main, Mar 19 2024, 21:46:16) [GCC 13.3.0]
+Sistema: Linux 6.2.16 (x86_64)
+Processador: 
+Uso de CPU: 18.6%
+Memória Total: 64312.70 MB
+Memória Livre: 46056.66 MB
+Memória Usada: 17674.63 MB
+
+Tempo de Execução: 48.84 ms
+Memória RAM Utilizada: 14336.00 KB
+
+Execução 02:
+
+~/.../Desafio 1 unidade/MergeSort$ python pmpythonmerge.py 
+Linguagem Python: 3.10.14 (main, Mar 19 2024, 21:46:16) [GCC 13.3.0]
+Sistema: Linux 6.2.16 (x86_64)
+Processador: 
+Uso de CPU: 9.3%
+Memória Total: 64312.70 MB
+Memória Livre: 46292.30 MB
+Memória Usada: 17439.00 MB
+
+Tempo de Execução: 48.47 ms
+Memória RAM Utilizada: 14588.00 KB
+
+Execução 03:
+
+~/.../Desafio 1 unidade/MergeSort$ python pmpythonmerge.py 
+Linguagem Python: 3.10.14 (main, Mar 19 2024, 21:46:16) [GCC 13.3.0]
+Sistema: Linux 6.2.16 (x86_64)
+Processador: 
+Uso de CPU: 6.6%
+Memória Total: 64312.70 MB
+Memória Livre: 46304.72 MB
+Memória Usada: 17426.57 MB
+
+Tempo de Execução: 49.14 ms
+Memória RAM Utilizada: 14200.00 KB
+
+Execução 04:
+
+~/.../Desafio 1 unidade/MergeSort$ python pmpythonmerge.py 
+Linguagem Python: 3.10.14 (main, Mar 19 2024, 21:46:16) [GCC 13.3.0]
+Sistema: Linux 6.2.16 (x86_64)
+Processador: 
+Uso de CPU: 6.6%
+Memória Total: 64312.70 MB
+Memória Livre: 46330.78 MB
+Memória Usada: 17400.52 MB
+
+Tempo de Execução: 48.11 ms
+Memória RAM Utilizada: 14332.00 KB
+
+Execução 05:
+
+~/.../Desafio 1 unidade/MergeSort$ python pmpythonmerge.py 
+Linguagem Python: 3.10.14 (main, Mar 19 2024, 21:46:16) [GCC 13.3.0]
+Sistema: Linux 6.2.16 (x86_64)
+Processador: 
+Uso de CPU: 12.6%
+Memória Total: 64312.70 MB
+Memória Livre: 46347.51 MB
+Memória Usada: 17383.78 MB
+
+Tempo de Execução: 48.53 ms
+Memória RAM Utilizada: 14208.00 KB
+
+Execução 06:
+
+~/.../Desafio 1 unidade/MergeSort$ python pmpythonmerge.py 
+Linguagem Python: 3.10.14 (main, Mar 19 2024, 21:46:16) [GCC 13.3.0]
+Sistema: Linux 6.2.16 (x86_64)
+Processador: 
+Uso de CPU: 7.9%
+Memória Total: 64312.70 MB
+Memória Livre: 46340.73 MB
+Memória Usada: 17390.56 MB
+
+Tempo de Execução: 49.18 ms
+Memória RAM Utilizada: 14464.00 KB
+
+Execução 07:
+
+~/.../Desafio 1 unidade/MergeSort$ python pmpythonmerge.py 
+Linguagem Python: 3.10.14 (main, Mar 19 2024, 21:46:16) [GCC 13.3.0]
+Sistema: Linux 6.2.16 (x86_64)
+Processador: 
+Uso de CPU: 18.4%
+Memória Total: 64312.70 MB
+Memória Livre: 46391.93 MB
+Memória Usada: 17339.46 MB
+
+Tempo de Execução: 56.31 ms
+Memória RAM Utilizada: 14336.00 KB
+
+Execução 08:
+
+~/.../Desafio 1 unidade/MergeSort$ python pmpythonmerge.py 
+Linguagem Python: 3.10.14 (main, Mar 19 2024, 21:46:16) [GCC 13.3.0]
+Sistema: Linux 6.2.16 (x86_64)
+Processador: 
+Uso de CPU: 6.7%
+Memória Total: 64312.70 MB
+Memória Livre: 46418.50 MB
+Memória Usada: 17312.79 MB
+
+Tempo de Execução: 50.11 ms
+Memória RAM Utilizada: 14332.00 KB
+
+Execução 09:
+
+~/.../Desafio 1 unidade/MergeSort$ python pmpythonmerge.py 
+Linguagem Python: 3.10.14 (main, Mar 19 2024, 21:46:16) [GCC 13.3.0]
+Sistema: Linux 6.2.16 (x86_64)
+Processador: 
+Uso de CPU: 5.2%
+Memória Total: 64312.70 MB
+Memória Livre: 46442.46 MB
+Memória Usada: 17288.82 MB
+
+Tempo de Execução: 48.59 ms
+Memória RAM Utilizada: 14592.00 KB
+
+Execução 10:
+
+~/.../Desafio 1 unidade/MergeSort$ python pmpythonmerge.py 
+Linguagem Python: 3.10.14 (main, Mar 19 2024, 21:46:16) [GCC 13.3.0]
+Sistema: Linux 6.2.16 (x86_64)
+Processador: 
+Uso de CPU: 5.3%
+Memória Total: 64312.70 MB
+Memória Livre: 46461.86 MB
+Memória Usada: 17269.43 MB
+
+Tempo de Execução: 48.71 ms
+Memória RAM Utilizada: 14580.00 KB

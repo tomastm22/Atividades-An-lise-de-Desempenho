@@ -1,0 +1,131 @@
+Execuções do MergeSort em JavaScript na Maquina Virtual
+
+Execução 01:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort$ node jmjavascriptmerge.js 
+Linguagem: Node.js v18.19.0
+Sistema: Linux 6.1.0-28-cloud-amd64 (x64)
+Processador: AMD EPYC 7B12
+Uso de CPU (não exato): ~0.00%
+Memória Total: 3924.72 MB
+Memória Livre: 3438.57 MB
+
+Tempo de Execução: 19.53 ms
+Memória RAM Utilizada: 58704.00 KB
+
+Execução 02:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort$ node jmjavascriptmerge.js 
+Linguagem: Node.js v18.19.0
+Sistema: Linux 6.1.0-28-cloud-amd64 (x64)
+Processador: AMD EPYC 7B12
+Uso de CPU (não exato): ~0.00%
+Memória Total: 3924.72 MB
+Memória Livre: 3437.00 MB
+
+Tempo de Execução: 12.75 ms
+Memória RAM Utilizada: 60284.00 KB
+
+Execução 03:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort$ node jmjavascriptmerge.js 
+Linguagem: Node.js v18.19.0
+Sistema: Linux 6.1.0-28-cloud-amd64 (x64)
+Processador: AMD EPYC 7B12
+Uso de CPU (não exato): ~0.00%
+Memória Total: 3924.72 MB
+Memória Livre: 3435.00 MB
+
+Tempo de Execução: 11.94 ms
+Memória RAM Utilizada: 60060.00 KB
+
+Execução 04:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort$ node jmjavascriptmerge.js 
+Linguagem: Node.js v18.19.0
+Sistema: Linux 6.1.0-28-cloud-amd64 (x64)
+Processador: AMD EPYC 7B12
+Uso de CPU (não exato): ~0.00%
+Memória Total: 3924.72 MB
+Memória Livre: 3437.46 MB
+
+Tempo de Execução: 12.83 ms
+Memória RAM Utilizada: 58568.00 KB
+
+Execução 05:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort$ node jmjavascriptmerge.js 
+Linguagem: Node.js v18.19.0
+Sistema: Linux 6.1.0-28-cloud-amd64 (x64)
+Processador: AMD EPYC 7B12
+Uso de CPU (não exato): ~0.00%
+Memória Total: 3924.72 MB
+Memória Livre: 3440.03 MB
+
+Tempo de Execução: 11.83 ms
+Memória RAM Utilizada: 60356.00 KB
+
+Execução 06:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort$ node jmjavascriptmerge.js 
+Linguagem: Node.js v18.19.0
+Sistema: Linux 6.1.0-28-cloud-amd64 (x64)
+Processador: AMD EPYC 7B12
+Uso de CPU (não exato): ~0.00%
+Memória Total: 3924.72 MB
+Memória Livre: 3441.59 MB
+
+Tempo de Execução: 12.14 ms
+Memória RAM Utilizada: 57680.00 KB
+
+Execução 07:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort$ node jmjavascriptmerge.js 
+Linguagem: Node.js v18.19.0
+Sistema: Linux 6.1.0-28-cloud-amd64 (x64)
+Processador: AMD EPYC 7B12
+Uso de CPU (não exato): ~0.00%
+Memória Total: 3924.72 MB
+Memória Livre: 3437.23 MB
+
+Tempo de Execução: 11.45 ms
+Memória RAM Utilizada: 57424.00 KB
+
+Execução 08:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort$ node jmjavascriptmerge.js 
+Linguagem: Node.js v18.19.0
+Sistema: Linux 6.1.0-28-cloud-amd64 (x64)
+Processador: AMD EPYC 7B12
+Uso de CPU (não exato): ~0.00%
+Memória Total: 3924.72 MB
+Memória Livre: 3439.73 MB
+
+Tempo de Execução: 11.27 ms
+Memória RAM Utilizada: 58996.00 KB
+
+Execução 09:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort$ node jmjavascriptmerge.js 
+Linguagem: Node.js v18.19.0
+Sistema: Linux 6.1.0-28-cloud-amd64 (x64)
+Processador: AMD EPYC 7B12
+Uso de CPU (não exato): ~0.00%
+Memória Total: 3924.72 MB
+Memória Livre: 3434.13 MB
+
+Tempo de Execução: 13.49 ms
+Memória RAM Utilizada: 57164.00 KB
+
+Execução 10:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/MergeSort$ node jmjavascriptmerge.js 
+Linguagem: Node.js v18.19.0
+Sistema: Linux 6.1.0-28-cloud-amd64 (x64)
+Processador: AMD EPYC 7B12
+Uso de CPU (não exato): ~0.00%
+Memória Total: 3924.72 MB
+Memória Livre: 3439.96 MB
+
+Tempo de Execução: 12.21 ms
+Memória RAM Utilizada: 56848.00 KB

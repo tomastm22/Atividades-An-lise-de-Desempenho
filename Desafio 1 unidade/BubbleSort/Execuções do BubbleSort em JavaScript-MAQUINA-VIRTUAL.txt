@@ -1,0 +1,131 @@
+Execuções do BubbleSort em JavaScript na Maquina Virtual
+
+Execução 01:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort$ node jbjavascript.js 
+Linguagem: Node.js v18.19.0
+Sistema: Linux 6.1.0-28-cloud-amd64 (x64)
+Processador: AMD EPYC 7B12
+Uso de CPU (não exato): ~0.17%
+Memória Total: 3924.72 MB
+Memória Livre: 3399.00 MB
+
+Tempo de Execução: 366.22 ms
+Memória RAM Utilizada: 55204.00 KB
+
+Execução 02:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort$ node jbjavascript.js 
+Linguagem: Node.js v18.19.0
+Sistema: Linux 6.1.0-28-cloud-amd64 (x64)
+Processador: AMD EPYC 7B12
+Uso de CPU (não exato): ~0.05%
+Memória Total: 3924.72 MB
+Memória Livre: 3399.79 MB
+
+Tempo de Execução: 364.67 ms
+Memória RAM Utilizada: 55628.00 KB
+
+Execução 03:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort$ node jbjavascript.js 
+Linguagem: Node.js v18.19.0
+Sistema: Linux 6.1.0-28-cloud-amd64 (x64)
+Processador: AMD EPYC 7B12
+Uso de CPU (não exato): ~0.05%
+Memória Total: 3924.72 MB
+Memória Livre: 3399.79 MB
+
+Tempo de Execução: 372.01 ms
+Memória RAM Utilizada: 57584.00 KB
+
+Execução 04:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort$ node jbjavascript.js 
+Linguagem: Node.js v18.19.0
+Sistema: Linux 6.1.0-28-cloud-amd64 (x64)
+Processador: AMD EPYC 7B12
+Uso de CPU (não exato): ~0.05%
+Memória Total: 3924.72 MB
+Memória Livre: 3399.42 MB
+
+Tempo de Execução: 366.05 ms
+Memória RAM Utilizada: 58716.00 KB
+
+Execução 05:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort$ node jbjavascript.js 
+Linguagem: Node.js v18.19.0
+Sistema: Linux 6.1.0-28-cloud-amd64 (x64)
+Processador: AMD EPYC 7B12
+Uso de CPU (não exato): ~0.05%
+Memória Total: 3924.72 MB
+Memória Livre: 3397.33 MB
+
+Tempo de Execução: 365.58 ms
+Memória RAM Utilizada: 56900.00 KB
+
+Execução 06:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort$ node jbjavascript.js 
+Linguagem: Node.js v18.19.0
+Sistema: Linux 6.1.0-28-cloud-amd64 (x64)
+Processador: AMD EPYC 7B12
+Uso de CPU (não exato): ~0.05%
+Memória Total: 3924.72 MB
+Memória Livre: 3399.57 MB
+
+Tempo de Execução: 364.33 ms
+Memória RAM Utilizada: 56312.00 KB
+
+Execução 07:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort$ node jbjavascript.js 
+Linguagem: Node.js v18.19.0
+Sistema: Linux 6.1.0-28-cloud-amd64 (x64)
+Processador: AMD EPYC 7B12
+Uso de CPU (não exato): ~0.05%
+Memória Total: 3924.72 MB
+Memória Livre: 3397.20 MB
+
+Tempo de Execução: 363.81 ms
+Memória RAM Utilizada: 58364.00 KB
+
+Execução 08:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort$ node jbjavascript.js 
+Linguagem: Node.js v18.19.0
+Sistema: Linux 6.1.0-28-cloud-amd64 (x64)
+Processador: AMD EPYC 7B12
+Uso de CPU (não exato): ~0.04%
+Memória Total: 3924.72 MB
+Memória Livre: 3401.32 MB
+
+Tempo de Execução: 363.18 ms
+Memória RAM Utilizada: 57880.00 KB
+
+Execução 09:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort$ node jbjavascript.js 
+Linguagem: Node.js v18.19.0
+Sistema: Linux 6.1.0-28-cloud-amd64 (x64)
+Processador: AMD EPYC 7B12
+Uso de CPU (não exato): ~0.04%
+Memória Total: 3924.72 MB
+Memória Livre: 3398.82 MB
+
+Tempo de Execução: 365.38 ms
+Memória RAM Utilizada: 58152.00 KB
+
+Execução 10:
+
+amorimtads@atividadedesafio01-instance-20241215-150959:~/Atividades-An-lise-de-Desempenho/Desafio 1 unidade/BubbleSort$ node jbjavascript.js 
+Linguagem: Node.js v18.19.0
+Sistema: Linux 6.1.0-28-cloud-amd64 (x64)
+Processador: AMD EPYC 7B12
+Uso de CPU (não exato): ~0.04%
+Memória Total: 3924.72 MB
+Memória Livre: 3399.57 MB
+
+Tempo de Execução: 363.76 ms
+Memória RAM Utilizada: 56056.00 KB

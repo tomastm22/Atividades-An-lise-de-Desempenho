@@ -1,0 +1,131 @@
+Execuções BubbleSort em JavaScrip no Replit
+
+Execução 01:
+
+~/.../Desafio 1 unidade/BubbleSort$ node jbjavascript.js 
+Linguagem: Node.js v20.16.0
+Sistema: Linux 6.2.16 (x64)
+Processador: AMD EPYC 7B13
+Uso de CPU (não exato): ~0.81%
+Memória Total: 64312.70 MB
+Memória Livre: 49036.97 MB
+
+Tempo de Execução: 283.18 ms
+Memória RAM Utilizada: 52580.00 KB
+
+Execução 02:
+
+~/.../Desafio 1 unidade/BubbleSort$ node jbjavascript.js 
+Linguagem: Node.js v20.16.0
+Sistema: Linux 6.2.16 (x64)
+Processador: AMD EPYC 7B13
+Uso de CPU (não exato): ~0.68%
+Memória Total: 64312.70 MB
+Memória Livre: 48631.32 MB
+
+Tempo de Execução: 295.09 ms
+Memória RAM Utilizada: 52608.00 KB
+
+Execução 03:
+
+~/.../Desafio 1 unidade/BubbleSort$ node jbjavascript.js 
+Linguagem: Node.js v20.16.0
+Sistema: Linux 6.2.16 (x64)
+Processador: AMD EPYC 7B13
+Uso de CPU (não exato): ~0.68%
+Memória Total: 64312.70 MB
+Memória Livre: 48509.86 MB
+
+Tempo de Execução: 281.70 ms
+Memória RAM Utilizada: 52376.00 KB
+
+Execução 04:
+
+~/.../Desafio 1 unidade/BubbleSort$ node jbjavascript.js 
+Linguagem: Node.js v20.16.0
+Sistema: Linux 6.2.16 (x64)
+Processador: AMD EPYC 7B13
+Uso de CPU (não exato): ~1.19%
+Memória Total: 64312.70 MB
+Memória Livre: 48443.31 MB
+
+Tempo de Execução: 306.87 ms
+Memória RAM Utilizada: 52504.00 KB
+
+Execução 05:
+
+~/.../Desafio 1 unidade/BubbleSort$ node jbjavascript.js 
+Linguagem: Node.js v20.16.0
+Sistema: Linux 6.2.16 (x64)
+Processador: AMD EPYC 7B13
+Uso de CPU (não exato): ~1.19%
+Memória Total: 64312.70 MB
+Memória Livre: 48411.81 MB
+
+Tempo de Execução: 301.04 ms
+Memória RAM Utilizada: 52508.00 KB
+
+Execução 06:
+
+~/.../Desafio 1 unidade/BubbleSort$ node jbjavascript.js 
+Linguagem: Node.js v20.16.0
+Sistema: Linux 6.2.16 (x64)
+Processador: AMD EPYC 7B13
+Uso de CPU (não exato): ~1.25%
+Memória Total: 64312.70 MB
+Memória Livre: 48484.86 MB
+
+Tempo de Execução: 344.13 ms
+Memória RAM Utilizada: 52768.00 KB
+
+Execução 07:
+
+~/.../Desafio 1 unidade/BubbleSort$ node jbjavascript.js 
+Linguagem: Node.js v20.16.0
+Sistema: Linux 6.2.16 (x64)
+Processador: AMD EPYC 7B13
+Uso de CPU (não exato): ~1.25%
+Memória Total: 64312.70 MB
+Memória Livre: 48412.22 MB
+
+Tempo de Execução: 319.25 ms
+Memória RAM Utilizada: 52784.00 KB
+
+Execução 08:
+
+~/.../Desafio 1 unidade/BubbleSort$ node jbjavascript.js 
+Linguagem: Node.js v20.16.0
+Sistema: Linux 6.2.16 (x64)
+Processador: AMD EPYC 7B13
+Uso de CPU (não exato): ~1.23%
+Memória Total: 64312.70 MB
+Memória Livre: 48329.14 MB
+
+Tempo de Execução: 307.66 ms
+Memória RAM Utilizada: 52632.00 KB
+
+Execução 09:
+
+~/.../Desafio 1 unidade/BubbleSort$ node jbjavascript.js 
+Linguagem: Node.js v20.16.0
+Sistema: Linux 6.2.16 (x64)
+Processador: AMD EPYC 7B13
+Uso de CPU (não exato): ~1.23%
+Memória Total: 64312.70 MB
+Memória Livre: 48262.09 MB
+
+Tempo de Execução: 292.73 ms
+Memória RAM Utilizada: 52428.00 KB
+
+Execução 10:
+
+~/.../Desafio 1 unidade/BubbleSort$ node jbjavascript.js 
+Linguagem: Node.js v20.16.0
+Sistema: Linux 6.2.16 (x64)
+Processador: AMD EPYC 7B13
+Uso de CPU (não exato): ~1.13%
+Memória Total: 64312.70 MB
+Memória Livre: 48012.84 MB
+
+Tempo de Execução: 374.76 ms
+Memória RAM Utilizada: 52616.00 KB

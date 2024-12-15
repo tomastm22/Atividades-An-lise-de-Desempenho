@@ -1,0 +1,141 @@
+Execuções BubbleSort em Python no Replit
+
+Execuções 01:
+
+~/.../Desafio 1 unidade/BubbleSort$ python pbythonbubble.py 
+Linguagem Python: 3.10.14 (main, Mar 19 2024, 21:46:16) [GCC 13.3.0]
+Sistema: Linux 6.2.16 (x86_64)
+Processador: 
+Uso de CPU: 5.2%
+Memória Total: 64312.70 MB
+Memória Livre: 49721.99 MB
+Memória Usada: 14009.53 MB
+
+Tempo de Execução: 17442.18 ms
+Memória RAM Utilizada: 14336.00 KB
+
+Execuções 02:
+
+~/.../Desafio 1 unidade/BubbleSort$ python pbythonbubble.py 
+Linguagem Python: 3.10.14 (main, Mar 19 2024, 21:46:16) [GCC 13.3.0]
+Sistema: Linux 6.2.16 (x86_64)
+Processador: 
+Uso de CPU: 3.8%
+Memória Total: 64312.70 MB
+Memória Livre: 50712.24 MB
+Memória Usada: 13019.57 MB
+
+Tempo de Execução: 16700.87 ms
+Memória RAM Utilizada: 14464.00 KB
+
+Execuções 03:
+
+~/.../Desafio 1 unidade/BubbleSort$ python pbythonbubble.py 
+Linguagem Python: 3.10.14 (main, Mar 19 2024, 21:46:16) [GCC 13.3.0]
+Sistema: Linux 6.2.16 (x86_64)
+Processador: 
+Uso de CPU: 4.0%
+Memória Total: 64312.70 MB
+Memória Livre: 50801.08 MB
+Memória Usada: 12930.73 MB
+
+Tempo de Execução: 17206.00 ms
+Memória RAM Utilizada: 14208.00 KB
+
+Execuções 04:
+
+~/.../Desafio 1 unidade/BubbleSort$ python pbythonbubble.py 
+Linguagem Python: 3.10.14 (main, Mar 19 2024, 21:46:16) [GCC 13.3.0]
+Sistema: Linux 6.2.16 (x86_64)
+Processador: 
+Uso de CPU: 3.4%
+Memória Total: 64312.70 MB
+Memória Livre: 50659.14 MB
+Memória Usada: 13072.51 MB
+
+Tempo de Execução: 17505.26 ms
+Memória RAM Utilizada: 13824.00 KB
+
+Execuções 05:
+
+~/.../Desafio 1 unidade/BubbleSort$ python pbythonbubble.py 
+Linguagem Python: 3.10.14 (main, Mar 19 2024, 21:46:16) [GCC 13.3.0]
+Sistema: Linux 6.2.16 (x86_64)
+Processador: 
+Uso de CPU: 3.8%
+Memória Total: 64312.70 MB
+Memória Livre: 50847.15 MB
+Memória Usada: 12884.66 MB
+
+Tempo de Execução: 17243.84 ms
+Memória RAM Utilizada: 14464.00 KB
+
+Execuções 06:
+
+~/.../Desafio 1 unidade/BubbleSort$ python pbythonbubble.py 
+Linguagem Python: 3.10.14 (main, Mar 19 2024, 21:46:16) [GCC 13.3.0]
+Sistema: Linux 6.2.16 (x86_64)
+Processador: 
+Uso de CPU: 4.5%
+Memória Total: 64312.70 MB
+Memória Livre: 50470.37 MB
+Memória Usada: 13261.14 MB
+
+Tempo de Execução: 16712.33 ms
+Memória RAM Utilizada: 14336.00 KB
+
+Execuções 07:
+
+~/.../Desafio 1 unidade/BubbleSort$ python pbythonbubble.py 
+Linguagem Python: 3.10.14 (main, Mar 19 2024, 21:46:16) [GCC 13.3.0]
+Sistema: Linux 6.2.16 (x86_64)
+Processador: 
+Uso de CPU: 5.3%
+Memória Total: 64312.70 MB
+Memória Livre: 50380.36 MB
+Memória Usada: 13351.30 MB
+
+Tempo de Execução: 17973.93 ms
+Memória RAM Utilizada: 14336.00 KB
+
+Execuções 08:
+
+~/.../Desafio 1 unidade/BubbleSort$ python pbythonbubble.py 
+Linguagem Python: 3.10.14 (main, Mar 19 2024, 21:46:16) [GCC 13.3.0]
+Sistema: Linux 6.2.16 (x86_64)
+Processador: 
+Uso de CPU: 9.8%
+Memória Total: 64312.70 MB
+Memória Livre: 50223.52 MB
+Memória Usada: 13508.00 MB
+
+Tempo de Execução: 17362.24 ms
+Memória RAM Utilizada: 14208.00 KB
+
+Execuções 09:
+
+~/.../Desafio 1 unidade/BubbleSort$ python pbythonbubble.py 
+Linguagem Python: 3.10.14 (main, Mar 19 2024, 21:46:16) [GCC 13.3.0]
+Sistema: Linux 6.2.16 (x86_64)
+Processador: 
+Uso de CPU: 3.5%
+Memória Total: 64312.70 MB
+Memória Livre: 50688.33 MB
+Memória Usada: 13043.45 MB
+
+Tempo de Execução: 16657.22 ms
+Memória RAM Utilizada: 14208.00 KB
+
+Execuções 10:
+
+~/.../Desafio 1 unidade/BubbleSort$ python pbythonbubble.py 
+Linguagem Python: 3.10.14 (main, Mar 19 2024, 21:46:16) [GCC 13.3.0]
+Sistema: Linux 6.2.16 (x86_64)
+Processador: 
+Uso de CPU: 6.7%
+Memória Total: 64312.70 MB
+Memória Livre: 50544.89 MB
+Memória Usada: 13186.77 MB
+
+Tempo de Execução: 17634.37 ms
+Memória RAM Utilizada: 14208.00 KB
